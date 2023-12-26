@@ -1,22 +1,21 @@
-Welcome to Lumache's documentation!
+Welcome to Hunter's tale 3 documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Hunter's tale 3** - Проект, созданный группой любителей роллевой игры,
+совмещающий внутри себя, как сам аспект роллевой игры, так и рпг систему.
+Данный текст пишется как проверка функционала программы.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Это заметка.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Хрен знает что это
+   ХРен знает, что это 2.
